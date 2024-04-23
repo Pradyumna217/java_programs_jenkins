@@ -6,5 +6,9 @@ public class Main{
         System.out.println("Hello");
         System.out.println("Added one more file");
         System.out.println("Added second file");
+
+
+        Student student = new Student();
+        student.sayHello();
     }
 }
